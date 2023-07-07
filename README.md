@@ -25,3 +25,23 @@ To run the simulation locally, follow these steps:
 
    ```shell
    git clone https://github.com/your-username/interactive-raindrops.git
+
+Open the index.html file in your web browser.
+
+Interact with the simulation using the following inputs:
+- Voice input: Adjust the rain intensity with your voice.
+- Mouse click: Create new raindrops.
+- Mouse click and drag: Create new boxes.
+- Arrow keys: Adjust rain intensity.
+- '+' and '-' keys: Adjust gravity.
+- 'C' key: Clear the screen.
+
+## Dependencies
+The project relies on the following dependencies:
+p5.js: A JavaScript library for creative coding.
+
+## Contributing
+Contributions to improve the raindrop simulation are welcome! If you find any bugs or have suggestions for new features, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
